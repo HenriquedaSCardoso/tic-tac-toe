@@ -1,0 +1,15 @@
+type: edu
+custom_name: What's up on the field?
+files:
+  - name: src/tictactoe/Main.java
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5399#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 05 Mar 2025 00:29:07 UTC"
+record: 3
